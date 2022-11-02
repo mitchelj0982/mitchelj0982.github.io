@@ -7,7 +7,8 @@ pre-installed GitHub Jekyll Themes: https://pages.github.com/themes/
 
 Hee are a list of projects I'm working on
 #Project 1
-This is infor for project 1.
+This is info for for project 1.
 
 #Project 2
-This is infor for project 2.
+This is info for for project 2.
+
