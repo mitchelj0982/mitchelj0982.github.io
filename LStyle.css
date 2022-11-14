@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&family=Itim&display=swap');
+.LogoHeader {
+    filter: drop-shadow(-8px 6px 2px #d77260 );
+    width:100%;
+    height: 188px;
+    background-color:#D79960;
+}
+.LogoHeader img {
+    position: absolute;
+    top:10%;
+    left: .5%;
+    float: left;    
+    margin: 0 15px 0 0;
+    
+    
+
+   
+   
+
+    
+
+}
+.LogoHeader h1{
+   
+    position: absolute;
+    left: 12%;
+    top: 10%;
+    text-align: center left;
+    height: 100px;
+    font-size: 72px;
+    font-family: "Gochi Hand","Tahoma";
+    color: #f0e2df;
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: #944032;
+    
+   
+
+
+
+}
+.dText {
+    font-size:  22px;
+    font-family: "Itim","Tahoma";
+    height: 65%;
+    width: 50%;
+    position: absolute;
+    left:45%;
+    top: 20%;
+    background-color: #f0d5d1;
+    color:#614a4a;
+
+}
+
+.mirror  img{
+
+    text-align: center;
+
+
+}
+
+.mainSection section {
+    filter: drop-shadow(-8px 6px 2px #d77260 );
+
+
+
+}
+.mainSection{
+    text-align: center;
+}
+.bottomText {
+    color:#614a4a;
+}
+body{
+
+    background-color: #EBD4B2;
+    font-family: "Itim","Tahoma";
+    
+
+}
